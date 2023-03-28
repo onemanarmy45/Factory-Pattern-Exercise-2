@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FactoryPatternExercise2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPatternExercise2/DataAccessFactory.cs">
+    <Files>
+      <File FileName="FactoryPatternExercise2/Program.cs" Line="22" Column="27" />
+      <File FileName="FactoryPatternExercise2/Product.cs" Line="4" Column="19" />
+      <File FileName="FactoryPatternExercise2/IDataAccess.cs" Line="10" Column="26" />
+      <File FileName="FactoryPatternExercise2/ListAccess.cs" Line="16" Column="15" />
+      <File FileName="FactoryPatternExercise2/SQLAccess.cs" Line="16" Column="15" />
+      <File FileName="FactoryPatternExercise2/MongoAccess.cs" Line="13" Column="35" />
+      <File FileName="FactoryPatternExercise2/DataAccessFactory.cs" Line="17" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryPatternExercise2" expanded="True">
+            <Node name="FactoryPatternExercise2" expanded="True">
+              <Node name="DataAccessFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
